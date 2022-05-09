@@ -1,0 +1,15 @@
+D:\Projetos C#\JogoCampoMinado\JogoCampoMinado\bin\Debug\net6.0\JogoCampoMinado.exe
+D:\Projetos C#\JogoCampoMinado\JogoCampoMinado\bin\Debug\net6.0\JogoCampoMinado.deps.json
+D:\Projetos C#\JogoCampoMinado\JogoCampoMinado\bin\Debug\net6.0\JogoCampoMinado.runtimeconfig.json
+D:\Projetos C#\JogoCampoMinado\JogoCampoMinado\bin\Debug\net6.0\JogoCampoMinado.dll
+D:\Projetos C#\JogoCampoMinado\JogoCampoMinado\bin\Debug\net6.0\JogoCampoMinado.pdb
+D:\Projetos C#\JogoCampoMinado\JogoCampoMinado\obj\Debug\net6.0\JogoCampoMinado.csproj.AssemblyReference.cache
+D:\Projetos C#\JogoCampoMinado\JogoCampoMinado\obj\Debug\net6.0\JogoCampoMinado.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos C#\JogoCampoMinado\JogoCampoMinado\obj\Debug\net6.0\JogoCampoMinado.AssemblyInfoInputs.cache
+D:\Projetos C#\JogoCampoMinado\JogoCampoMinado\obj\Debug\net6.0\JogoCampoMinado.AssemblyInfo.cs
+D:\Projetos C#\JogoCampoMinado\JogoCampoMinado\obj\Debug\net6.0\JogoCampoMinado.csproj.CoreCompileInputs.cache
+D:\Projetos C#\JogoCampoMinado\JogoCampoMinado\obj\Debug\net6.0\JogoCampoMinado.dll
+D:\Projetos C#\JogoCampoMinado\JogoCampoMinado\obj\Debug\net6.0\refint\JogoCampoMinado.dll
+D:\Projetos C#\JogoCampoMinado\JogoCampoMinado\obj\Debug\net6.0\JogoCampoMinado.pdb
+D:\Projetos C#\JogoCampoMinado\JogoCampoMinado\obj\Debug\net6.0\JogoCampoMinado.genruntimeconfig.cache
+D:\Projetos C#\JogoCampoMinado\JogoCampoMinado\obj\Debug\net6.0\ref\JogoCampoMinado.dll
